@@ -8,3 +8,5 @@
 2. `Originals.json` is a list of all original audios by the original uploaders
 
 ***Notice these two files will not get updated constantly like the `Sounds.json` file***
+
+If you have questions or wish to join this small Audio Sandbox project contact me on discord `unknownuseruwu`
